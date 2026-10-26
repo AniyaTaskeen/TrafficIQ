@@ -1,0 +1,24 @@
+test_exact_transition_boundaries (test_images.ControllerTests) ... ok
+test_proportional_allocation_preserves_budget_and_bounds (test_images.ControllerTests) ... ok
+test_safe_cycle_pause_resume_reset_and_fairness (test_images.ControllerTests) ... ok
+test_invalid_image_bytes (test_images.ImageApiTests) ... ok
+test_invalid_requests_and_empty_states (test_images.ImageApiTests) ... ok
+test_real_yolo_image_session_and_analytics (test_images.ImageApiTests) ... ok
+test_settings_validation_and_persistence (test_images.ImageApiTests) ... ok
+test_clear_sample_preserves_real_history (test_project.ProjectTests) ... ok
+test_detector_error_reaches_job_status (test_project.ProjectTests) ... ok
+test_empty_apis (test_project.ProjectTests) ... ok
+test_first_run_uses_only_live_counts (test_project.ProjectTests) ... ok
+test_pages_and_static_assets (test_project.ProjectTests) ... ok
+test_peak_hour_gives_west_more_green (test_project.ProjectTests) ... ok
+test_reset (test_project.ProjectTests) ... ok
+test_sample_history_and_peak_learning (test_project.ProjectTests) ... ok
+test_signal_timings (test_project.ProjectTests) ... ok
+test_upload_pipeline_with_stub_detector (test_project.ProjectTests) ... ok
+test_upload_validation (test_project.ProjectTests) ... ok
+test_zero_traffic_history_does_not_crash_analysis (test_project.ProjectTests) ... ok
+
+----------------------------------------------------------------------
+Ran 19 tests in 32.710s
+
+OK
